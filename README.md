@@ -29,4 +29,4 @@ THEN I am again presented with current and future conditions for that city
 
 Study group: Susan, Chris P, Sarah, Jackson, Ricky
 
-Deployed URL: 
+Deployed URL: https://rpethick0207.github.io/weatherdashboard/ 
